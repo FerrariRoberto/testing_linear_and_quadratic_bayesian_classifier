@@ -24,8 +24,13 @@ In the project the files:
 
 
 ## Testing Examples
+
+### Linear classifier example
+
+
+### Linear vs Quadratic example
 ![Linear vs Quadratic models](images/linearquad.png)
-_Figure 1: Linear Model vs Quadratic Model classification._
+_Figure 2: Linear Model vs Quadratic Model classification._  
 In the image above, the dots are colored according to the ground truth. The colored areas represent the regions where the model has divided the space.  
 
 
