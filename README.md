@@ -6,9 +6,9 @@ Data for testing were pre-processed and normalized. The input .txt file should h
 `%label1 %label2 %label3  ... %class`  
 `x_11 x_12 x_13 ...           1`   
 `x_21 x_22 ...                2`  
-.  
-.  
-.  
+`.`  
+`.`  
+`.`   
 
 The outputs are displayed in MATLAB's terminal, except figures.   
 The feature selection in involved to choose up to 3 features plus the label/class (described by a number).
