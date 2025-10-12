@@ -18,7 +18,9 @@ In the project the files:
 -MyMultipleBayes: different classifiers are considered with different features each. classification involves the mode of results. output: confusion matrix, classification image and elapsed time  
 -LOOCV_MyBayes: estimate classification error via LOOCV for Linear and Quadratic models  
 -LOOCV_MultipleBayes: estimate classification error via LOOCV for ensemble of models (with different features each)  
-(Leave-one-out cross-validation see:https://en.wikipedia.org/wiki/Cross-validation_(statistics)#Leave-one-out_cross-validation)  
+(Leave-one-out cross-validation see:https://en.wikipedia.org/wiki/Cross-validation_(statistics)#Leave-one-out_cross-validation)    
+
+
 
 
 
