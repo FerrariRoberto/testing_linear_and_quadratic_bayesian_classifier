@@ -25,6 +25,7 @@ In the project the files:
 
 ## Testing Examples
 ![Linear vs Quadratic models](images/linearquad.png)
+_Figure 1: Linear Model vs Quadratic Model._
 
 
 
