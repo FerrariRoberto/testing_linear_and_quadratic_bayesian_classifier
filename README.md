@@ -33,7 +33,7 @@ In the project the files:
 _Figure 2: Linear Model vs Quadratic Model classification._  
 In the image above, the dots are colored according to the ground truth. The colored areas represent the regions where the model has divided the space.  
 
-
+### five classifiers (2 linear + 3 quadratic)
 
 
 
