@@ -40,7 +40,7 @@ In the image above, the dots are colored according to the ground truth. The colo
 
 ### five classifiers (2 linear + 3 quadratic)  
 ![Linear vs Quadratic models](images/multi.png)  
-In the image above, confrontation between ground true and models' result.  
+In the image above, confrontation between the ground true and the models' result. The models used belong to the linear or quadratic family, each employing different feature sets.
 
 
 
