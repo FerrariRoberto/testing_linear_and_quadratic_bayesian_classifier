@@ -11,7 +11,7 @@ Data for testing were pre-processed and normalized. The input .txt file should h
 `.`   
 
 The outputs are displayed in MATLAB's terminal, except figures.   
-The feature selection in involved to choose up to 3 features plus the label/class (described by a number).
+The feature selection in involved to choose up to 2 features plus the label/class (described by a number).
 In the project the files:  
 -MyBayesLin: contains a linear classifier. output: confusion matrix, classification image and elapsed time
 -MyBayesQ:   contains a quadratic classifier. output: confusion matrix, classification image and elapsed time  
@@ -26,7 +26,7 @@ In the project the files:
 ## Testing Examples
 ![Linear vs Quadratic models](images/linearquad.png)
 _Figure 1: Linear Model vs Quadratic Model classification._
-
+In the image above, the dots are colored according to the ground truth. The colored areas represent the regions where the model has divided the space.  
 
 
 
