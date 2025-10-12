@@ -26,16 +26,20 @@ In the project the files:
 ## Testing Examples
 
 ### Linear classifier example
-
+![Linear model](images/linearB.png)
+_Figure 1: Linear Model classification._  
+In the image above, the dots are colored according to the ground truth. The colored areas represent the regions where the model has divided the space. 
+![Linear model](images/confmat.png)
+_Figure 2: Linear Model confusion matrix results._  
 
 ### Linear vs Quadratic example
 ![Linear vs Quadratic models](images/linearquad.png)
-_Figure 2: Linear Model vs Quadratic Model classification._  
+_Figure 3: Linear Model vs Quadratic Model classification._  
 In the image above, the dots are colored according to the ground truth. The colored areas represent the regions where the model has divided the space.  
 
 ### five classifiers (2 linear + 3 quadratic)
-
-
+![Linear vs Quadratic models](images/multi.png)
+In the image above, confrontation between ground true and models' result.
 
 
 
