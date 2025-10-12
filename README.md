@@ -28,10 +28,10 @@ In the project the files:
 ### Linear classifier example
 ![Linear model](images/linearB.png)  
 _Figure 1: Linear Model classification._    
-In the image above, the dots are colored according to the ground truth. The colored areas represent the regions where the model has divided the space.<br>   
+In the image above, the dots are colored according to the ground truth. The colored areas represent the regions where the model has divided the space. Below, the Confusion Matrix result<br>   
 
 <img src="images/confmat.png" width="400" alt="Classifier 1 result"/>   
-_Figure 2: Linear Model confusion matrix example._    
+
 
 ### Linear vs Quadratic example
 ![Linear vs Quadratic models](images/linearquad.png)  
