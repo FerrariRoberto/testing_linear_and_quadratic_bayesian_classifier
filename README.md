@@ -14,9 +14,9 @@ The feature selection in involved to choose up to 3 features plus the label/clas
 In the project the files:  
 -MyBayesLin: contains a linear classifier. output: confusion matrix, classification image and elapsed time  
 -MyBayesQ:   contains a quadratic classifier. output: confusion matrix, classification image and elapsed time  
--MyMultipleBayes: different classifiers are considered. classification involves the mode of results. output: confusion matrix, classification image and elapsed time  
+-MyMultipleBayes: different classifiers are considered with different features each. classification involves the mode of results. output: confusion matrix, classification image and elapsed time  
 -LOOCV_MyBayes: estimate classification error via LOOCV for Linear and Quadratic models  
--LOOCV_MultipleBayes: estimate classification error via LOOCV for ensemble of models  
+-LOOCV_MultipleBayes: estimate classification error via LOOCV for ensemble of models (with different features each)  
 (Leave-one-out cross-validation see:https://en.wikipedia.org/wiki/Cross-validation_(statistics)#Leave-one-out_cross-validation)  
 
 
