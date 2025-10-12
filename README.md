@@ -1,6 +1,6 @@
 This was a university project for an exam; it contains MATLAB scripts comparing different Bayesian classifiers.
 the models take as input a "DataSet.txt", containing different features.
-the models were tested using the dataset:\n
+the models were tested using the dataset:  
 Charytanowicz, M., Niewczas, J., Kulczycki, P., Kowalski, P., & Lukasik, S. (2010). Seeds [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5H30K.
 Data for testing were pre-processed and normalized. The input .txt file should have the structure as:
 %label1 %label2 %label3  ... %class
