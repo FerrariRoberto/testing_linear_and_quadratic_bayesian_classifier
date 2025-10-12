@@ -11,7 +11,7 @@ Data for testing were pre-processed and normalized. The input .txt file should h
 .  
 
 The feature selection in involved to choose up to 3 features plus the label/class (described by a number)
-In the project the files:
+In the project the files:  
 -MyBayesLin: contains a linear classifier. output: confusion matrix, classification image and elapsed time  
 -MyBayesQ:   contains a quadratic classifier. output: confusion matrix, classification image and elapsed time  
 -MyMultipleBayes: different classifiers are considered. classification involves the mode of results. output: confusion matrix, classification image and elapsed time  
