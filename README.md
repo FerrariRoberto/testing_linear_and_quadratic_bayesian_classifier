@@ -22,6 +22,11 @@ In the project the files:
 
 
 
+![Linear vs Quadratic models](images/linearquad.png)
+
+
+
+
 
 
 
