@@ -27,7 +27,7 @@ In the project the files:
 
 ### Linear classifier example
 ![Linear model](images/linearB.png)  
-_Figure 1: Linear Model classification._    
+_Figure 1: Linear Model classification._  <br>   
 In the image above, the dots are colored according to the ground truth. The colored areas represent the regions where the model has divided the space. Below, the Confusion Matrix result<br>   
 
 <img src="images/confmat.png" width="400" alt="Classifier 1 result"/>   
@@ -35,11 +35,13 @@ In the image above, the dots are colored according to the ground truth. The colo
 
 ### Linear vs Quadratic example
 ![Linear vs Quadratic models](images/linearquad.png)  
-_Figure 3: Linear Model vs Quadratic Model classification._    
+_Figure 3: Linear Model vs Quadratic Model classification._  <br>   
 In the image above, the dots are colored according to the ground truth. The colored areas represent the regions where the model has divided the space.  
 
 ### five classifiers (2 linear + 3 quadratic)  
 ![Linear vs Quadratic models](images/multi.png)  
+_Figure 4: Ground truth vs Model ensemble prediction._ <br>   
+Linear Model vs Quadratic Model classification.
 In the image above, confrontation between the ground true and the models' result. The models used belong to the linear or quadratic family, each employing different feature sets.
 
 
