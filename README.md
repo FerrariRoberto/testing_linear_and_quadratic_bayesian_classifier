@@ -73,8 +73,7 @@ The case classification correctly predicts nearly 97% of the samples. As can be 
 ### five classifiers (2 linear + 3 quadratic) 
 
 In this case, training was done on five models, linear and quadratic, using different features. The classification  
-was done using the majority voting.  <br>
-Below, a resume of the model used:  
+was done using the majority voting. Below, a resume of the model used:  
 
  ![Linear model](images/models_multi.png)  
 
