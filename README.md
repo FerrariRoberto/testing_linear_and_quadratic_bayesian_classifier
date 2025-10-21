@@ -30,7 +30,8 @@ In the project the files:
 
 The implementation considered the dataset mentioned above. The dataset contains three different types of wheat seeds,  
 described by seven features. The goal is thus to  train a model for classification. The dataset is not 'big', it contains   
-70 samples for each category. It should be suitable for Bayesian classifier, while a ANN network would require more training data.   
+70 samples for each category. It should be suitable for Bayesian classifier, while a complex model such ANN network would   
+require more training data.   
 
 After normalization of data, it was necessary to carry out a feature extraction process. This is required in order to select the   
 most suitable features for the model. Indeed, as you can see below, some feature cannot be separated with hyperplanes. 
