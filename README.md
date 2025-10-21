@@ -34,7 +34,7 @@ described by seven features. The goal is thus to  train a model for classificati
 require more training data.   
 
 After normalization of data, it was necessary to carry out a feature extraction process. This is required in order to select the   
-most suitable features for the model. Indeed, as you can see below, some feature cannot be separated with hyperplanes. 
+most suitable features for the model. Indeed, as you can see below, some feature cannot be separated with linear relations. 
 
 ![Linear model](images/feature_example.png)  
 _Figure 1: Examples of features space._  <br>   
