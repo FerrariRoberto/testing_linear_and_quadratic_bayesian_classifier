@@ -64,9 +64,10 @@ _Figure 3: Linear Model classification._  <br>
 _Figure 3: Quadratic Model classification._  <br>    
 
 Both linear and quadratic models performed similarly, leading to the same classification.
-The confusion matrix for both cases is shown below. The case classification correctly predicts nearly 97% of the samples. As can be seen from the graphs, the residual error is caused by some outliers that do not allow perfect classification. The linear classifier requires less training time, and in this case would be more convenient to use due to its simplicity. A possible test set with new data could establish which of the two models is better in an absolute sense, since they define different decision regions.
 
  ![Linear model](images/confusion_matrix1.png)  
+
+The confusion matrix for both cases is shown below. The case classification correctly predicts nearly 97% of the samples. As can be seen from the graphs, the residual error is caused by some outliers that do not allow perfect classification. The linear classifier requires less training time, and in this case would be more convenient to use due to its simplicity. A possible test set with new data could establish which of the two models is better in an absolute sense, since they define different decision regions.   
 
 
 ### five classifiers (2 linear + 3 quadratic) 
