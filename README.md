@@ -16,9 +16,9 @@ Data for testing were pre-processed and normalized. The input .txt file should h
 The outputs are displayed in MATLAB's terminal, except figures.   
 The feature selection allows to choose up to 2 features plus the label/class (described by a number).
 In the project the files:  
-* MyBayesLin: contains a linear classifier. output: confusion matrix, classification image and elapsed time
-* MyBayesQ:   contains a quadratic classifier. output: confusion matrix, classification image and elapsed time  
-* MyMultipleBayes: different classifiers are considered with different features each. classification involves the mode of results. output: confusion matrix, classification image and elapsed time  
+* MyBayesLin: contains a linear classifier, printing confusion matrix, classification image and elapsed time
+* MyBayesQ:   contains a quadratic classifier, printing confusion matrix, classification image and elapsed time  
+* MyMultipleBayes: different classifiers are considered with different features each. classification involves majority vote. 
 * LOOCV_MyBayes: estimate classification error via LOOCV for Linear and Quadratic models  
 * LOOCV_MultipleBayes: estimate classification error via LOOCV for ensemble of models (with different features each)  
 (Leave-one-out cross-validation see:https://en.wikipedia.org/wiki/Cross-validation_(statistics)#Leave-one-out_cross-validation)    
