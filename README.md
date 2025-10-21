@@ -85,7 +85,7 @@ are showed below as confusion matrix:
 
 ![Linear vs Quadratic models](images/matrix_multi.png)  
 
-### Result comparison, Leave-One-Out Cross-Validation and results
+### Leave-One-Out Cross-Validation and results
 Philosophically we could mention Occam's razor, and therefore indicate as the best solution the simpler one   
 and with fewer parameters.  In this case the best classifier among those seen is the Bayesian linear classifier,  
 which uses the two features Kernel Groove and Length of Kernel. It is in fact the simplest one and which provides   
