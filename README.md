@@ -52,13 +52,17 @@ _Figure 2: Results of Linear classification using 3 features._  <br>
 ### Linear and Quadratic classifiers
 Linear and Quadratic models have been trained with different features. After a conforntation, Kernel Groove and Length of Kernel were
 selected as the most suitable to classify the dataset. Below, are reported the results of Linear and Quadratic models using those features. <br>
+
+In the following images, the samples are colored according to the ground truth. The colored areas represent the regions where the model has   
+divided the space according to the classifications. <br>  
+
+
 ![Linear model](images/linear.png)  
 _Figure 3: Linear Model classification._  <br>   
 In the image above, the dots are colored according to the ground truth. The colored areas represent the regions where the model has divided the space. <br>   
 
  ![Linear model](images/quadratic.png)  
-_Figure 3: Quadratic Model classification._  <br>   
-In the image above, the dots are colored according to the ground truth. The colored areas represent the regions where the model has divided the space. <br>   
+_Figure 3: Quadratic Model classification._  <br>    
 
 Both linear and quadratic models performed similarly, leading to the same classification.
 The confusion matrix for both cases is shown below. The case classification correctly predicts nearly 97% of the samples. As can be seen from the graphs, the residual error is caused by some outliers that do not allow perfect classification. The linear classifier requires less training time, and in this case would be more convenient to use due to its simplicity. A possible test set with new data could establish which of the two models is better in an absolute sense, since they define different decision regions.
