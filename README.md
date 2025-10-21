@@ -41,7 +41,8 @@ _Figure 1: Examples of features space._  <br>
  
 In the figures above, it is possible to see graphically that the chosen features are not sufficient to classify easily. The three   
 classes are not all simultaneously distinguishable from each other. This is reflected in a very high classification error, which exceeds   
-15% with the linear Bayes model. Below are the graph and results using three features Compactness, Asymmetry Coeff. and Length of Kernel   
+15% with the linear Bayes model.      
+Below the graph  results using three features Compactness, Asymmetry Coeff. and Length of Kernel   
 Groove, which improves the classification of previous cases although still with a margin of error of more than 10%.
 
 ![Linear model](images/image3d.png)  
