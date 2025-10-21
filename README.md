@@ -1,6 +1,5 @@
 This was a university project for an exam. The objective is to select the most suitable  
-Bayesian classifier among the linear and quadratic types. The repository contains  
-MATLAB scripts to reach the goal.   
+Bayesian classifier among the linear and quadratic types, in order to proper classify a dataset.   
 
 the models take in input a "DataSet.txt", containing different features.  
 The models were tested using a dataset derived from:    
