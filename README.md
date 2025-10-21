@@ -1,7 +1,11 @@
-This was a university project for an exam; it contains MATLAB scripts comparing different Bayesian classifiers.
+This was a university project for an exam. The objective is to select the most suitable  
+Bayesian classifier among the linear and quadratic types. The reppository contains  
+MATLAB scripts to reach the goal.   
+
 the models take in input a "DataSet.txt", containing different features.  
-The models were tested using the dataset:    
+The models were tested using a dataset derived from:    
 Charytanowicz, M., Niewczas, J., Kulczycki, P., Kowalski, P., & Lukasik, S. (2010). Seeds [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5H30K.<br>   
+
 Data for testing were pre-processed and normalized. The input .txt file should have the structure as:   
 `%label1 %label2 %label3  ... %class`  
 `x_11 x_12 x_13 ...           1`   
