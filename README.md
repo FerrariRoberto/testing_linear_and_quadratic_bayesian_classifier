@@ -59,7 +59,6 @@ divided the space according to the classifications. <br>
 
 ![Linear model](images/linear.png)  
 _Figure 3: Linear Model classification._  <br>   
-In the image above, the dots are colored according to the ground truth. The colored areas represent the regions where the model has divided the space. <br>   
 
  ![Linear model](images/quadratic.png)  
 _Figure 3: Quadratic Model classification._  <br>    
