@@ -49,7 +49,7 @@ _Figure 2: Results of Linear classification using 3 features._  <br>
 
 
 ### Linear and Quadratic classifiers
-Linear and quadtratic models have been trained with different features. After a conforntation, Kernel Groove and Length of Kernel were
+Linear and Quadratic models have been trained with different features. After a conforntation, Kernel Groove and Length of Kernel were
 selected as the most suitable to classify the dataset. Below, are reported the results of Linear and Quadratic models using those features. <br>
 ![Linear model](images/linear.png)  
 _Figure 3: Linear Model classification._  <br>   
