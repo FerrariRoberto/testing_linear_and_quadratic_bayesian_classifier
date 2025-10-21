@@ -1,5 +1,5 @@
 This was a university project for an exam. The objective is to select the most suitable  
-Bayesian classifier among the linear and quadratic types. The reppository contains  
+Bayesian classifier among the linear and quadratic types. The repository contains  
 MATLAB scripts to reach the goal.   
 
 the models take in input a "DataSet.txt", containing different features.  
